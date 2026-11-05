@@ -4,4 +4,4 @@ iPhoneアプリ「放課後ハンドバトル」のサポートページとプ�
 
 - サポート：https://roi-roi61.github.io/houkago-hand-battle-support/
 - プライバシーポリシー：https://roi-roi61.github.io/houkago-hand-battle-support/privacy.html
-- お問い合わせ：このリポジトリの Issues
+- お問い合わせ：hitohilpstudio@gmail.com
